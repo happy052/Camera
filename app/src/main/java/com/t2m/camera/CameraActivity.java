@@ -14,7 +14,7 @@ import android.widget.Toast;
 import com.t2m.camera.module.CameraModule;
 import com.t2m.camera.module.PhotoModule;
 import com.t2m.camera.module.VideoModule;
-import com.t2m.camera.util.CameraUtil;
+import   com.t2m.camera.util.CameraUtil;
 
 public class CameraActivity extends Activity implements
             View.OnClickListener{
